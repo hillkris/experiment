@@ -1,0 +1,22 @@
+ #MsJones {
+                color: cadetblue;
+            }
+            h1, h2, h3, h4 {
+                color: whitesmoke;
+                font-size: 30px;
+                margin: 0;
+                background-color: lightpink;
+            }
+            h1 {color: pink}
+            .important{
+                color: orchid;
+                background-color: lightgrey;
+            }
+            #TheOne {
+                color: aqua;
+            }
+            .uppercase {
+                text-transform: uppercase;
+                color: mediumslateblue;
+                background-color: palevioletred;
+            }
